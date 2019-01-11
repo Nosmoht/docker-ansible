@@ -1,0 +1,5 @@
+ansible-lint
+dnspython
+netaddr
+pycrypto
+requests
