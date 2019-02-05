@@ -12,11 +12,7 @@ Following components can be used
 - Ansible
 - Ansible Lint
 
-Additional Python packages that are installed
-- netaddr (packages for network addresses)
-- PyCrypto (cryptographic package)
-- requests (Python HTTP for Humans)
-- pydns (Python DNS Utilities)
+Additional Python packages can be installed by adding them to [requirements.txt](requirements.txt).
 
 # Usage
 Run Ansible add-hoc:
